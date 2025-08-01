@@ -9,6 +9,6 @@ const examples = [
 
 for (const str of examples) {
   console.log(
-    `Original: "${str}" | length: ${str.length} | count: ${str.count}`
+    `Original: "${str}" | length: ${str.length} | count: ${str.count}`,
   );
 }
